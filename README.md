@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**NikitaPatil1201/NikitaPatil1201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Hi, I'm Nikita 👋  
 Full Stack Developer (Node.js | MongoDB | React)
 
@@ -11,4 +6,3 @@ Full Stack Developer (Node.js | MongoDB | React)
 - 🌱 Learning: System Design
 - 💬 Ask me about: JavaScript, MongoDB, APIs
 - 📫 Reach me: nikita@email.com
--->
